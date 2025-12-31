@@ -44,9 +44,9 @@ To run this project on your local machine:
    ```
    
  2. **Navigate inside the project**
-   ```bash
-cd student-bio
-```
+    ```bash
+    cd main
+    ```
 
  3. **Install dependencies**
      ```bash
