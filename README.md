@@ -43,20 +43,19 @@ To run this project on your local machine:
    git clone https://github.com/nixen-rohit/student-bio.git   
    ```
    
- 2. Navigate inside the project
+ 2. **Navigate inside the project**
    ```bash
-    cd student-bio
-   ```
+cd student-bio
+```
 
- 3. Install dependencies
+ 3. **Install dependencies**
      ```bash
-       npm install
-   ```
+     npm install
+     ```
 
-4. Start the development server
-
-  ```bash
-      npm run dev
+4. **Start the development server**
+   ```bash
+   npm run dev
    ```
 
 
