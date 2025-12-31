@@ -45,7 +45,7 @@ To run this project on your local machine:
    
  2. **Navigate inside the project**
     ```bash
-    cd main
+    cd student-bio-main
     ```
 
  3. **Install dependencies**
